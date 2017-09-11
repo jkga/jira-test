@@ -1,2 +1,2 @@
 # jira-test
-jirh testing repo
+jira testing repo
